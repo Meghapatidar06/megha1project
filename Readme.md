@@ -3,6 +3,7 @@ Certainly! Below is the README file for your `SkillVerification` smart contract:
 ---
 
 # Skill Verification Smart Contract
+<img width="875" alt="image" src="https://github.com/user-attachments/assets/2563462c-f6fd-4ffb-942e-96484b0f5445">
 
 ## Vision
 
